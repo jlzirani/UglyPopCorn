@@ -1,0 +1,8 @@
+bin
+obj
+*.org
+*~
+
+report/report.synctex.gz
+report/report.pdf
+report/report.log
